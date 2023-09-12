@@ -1,0 +1,15 @@
+E:\issam_csharp\basic_projects\fizz_buzz\bin\Debug\net6.0\fizz_buzz.exe
+E:\issam_csharp\basic_projects\fizz_buzz\bin\Debug\net6.0\fizz_buzz.deps.json
+E:\issam_csharp\basic_projects\fizz_buzz\bin\Debug\net6.0\fizz_buzz.runtimeconfig.json
+E:\issam_csharp\basic_projects\fizz_buzz\bin\Debug\net6.0\fizz_buzz.dll
+E:\issam_csharp\basic_projects\fizz_buzz\bin\Debug\net6.0\fizz_buzz.pdb
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.csproj.AssemblyReference.cache
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.AssemblyInfoInputs.cache
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.AssemblyInfo.cs
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.csproj.CoreCompileInputs.cache
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.dll
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\refint\fizz_buzz.dll
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.pdb
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\fizz_buzz.genruntimeconfig.cache
+E:\issam_csharp\basic_projects\fizz_buzz\obj\Debug\net6.0\ref\fizz_buzz.dll
